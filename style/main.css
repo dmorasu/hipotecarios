@@ -1,0 +1,99 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background: linear-gradient(90deg, rgba(32,32,36,1) 0%, rgba(228,215,156,0.44021358543417366) 38%, rgba(233,237,238,1) 100%);
+}
+
+
+.titulo{
+    
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.titulo2{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: flex-end;
+    
+}
+
+.logoheader{
+    width: 150px;
+    height: 120px;
+    
+
+}
+.contenedorimg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.consultaEncabezado{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    
+    
+}
+
+.button{
+    border-radius: 10px;
+    background-color: #e4d79c;
+    color: black;
+    font-size: 1.2em;
+    /* margin-right: 200px; */
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 40px;
+}
+
+.entradaid{
+    width: 400px;
+    
+    margin-right: 50px;
+
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 350px;
+}
+
+.otrosenlaces{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: 100px;
+    
+}
+.imgico{
+    width: 80px;
+    height: 80px;
+}
+
+.tablaresultado{
+    
+    font-size: 1.5em;
+}
+
+td{
+    padding-bottom: 10px;
+
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+a{
+    color: black;
+    font-size: large;
+    margin-left: 25px;
+    text-decoration: none;
+
+}

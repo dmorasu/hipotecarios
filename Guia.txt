@@ -1,0 +1,12 @@
+// Tareas de DLLO
+
+
+1. Validar que inserte la hoja default cuando no exista el cliente
+2.Validar la letra negra del final.
+
+
+// Validar con el EQuipo
+
+1. Falta el estado 6  no se encontro
+2. En identificacion hay 2 cedulas en un mismo campo 1128437044/1017255391
+3. El estado desistido no esta contemplado en el Flujo
